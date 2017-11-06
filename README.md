@@ -4,8 +4,8 @@ Server for syncing multiple softwares across multiple platforms
 ## Dependencies:
 * Python 2.7
 * Django (use [this link](https://www.codingforentrepreneurs.com/blog/install-python-django-on-windows/) for installing in windows)
-* pyautogui
-* sox/libsox
+* pyautogui ("pip install pyautogui")
+* sox/libsox (for Linux ONLY)
 
 ## How to get it running:
 * Go to "python_sync" folder and execute "autogui.py" ($ python autogui.py)
