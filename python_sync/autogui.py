@@ -9,4 +9,3 @@ try:
         sys.stdout.flush()
 except KeyboardInterrupt:
     print '\n'
-#https://www.codingforentrepreneurs.com/blog/install-python-django-on-windows/
